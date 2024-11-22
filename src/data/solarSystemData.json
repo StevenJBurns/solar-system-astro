@@ -1,0 +1,143 @@
+{
+  "planets": [
+    {
+      "name": "Mercury",
+      "moons": []
+    },
+    {
+      "name": "Venus",
+      "moons": []
+    },
+    {
+      "name": "Earth",
+      "moons": [
+        "Moon"
+      ]
+    },
+    {
+      "name": "Mars",
+      "moons": [
+        "Phobos",
+        "Deimos"
+      ]
+    },
+    {
+      "name": "Jupiter",
+      "moons": [
+        "Io",
+        "Europa",
+        "Ganymede",
+        "Callisto",
+        "Amalthea",
+        "Himalia",
+        "Elara",
+        "Pasiphae",
+        "Sinope",
+        "Lysithea",
+        "Carme",
+        "Ananke",
+        "Metis",
+        "Adrastea",
+        "Thebe",
+        "Carmine",
+        "Callirrhoe",
+        "Eurydome",
+        "S/2003 J 2",
+        "S/2003 J 9",
+        "S/2003 J 11",
+        "S/2003 J 14",
+        "S/2003 J 16",
+        "S/2003 J 18"
+      ]
+    },
+    {
+      "name": "Saturn",
+      "moons": [
+        "Titan",
+        "Rhea",
+        "Iapetus",
+        "Dione",
+        "Tethys",
+        "Enceladus",
+        "Mimas",
+        "Hyperion",
+        "Phoebe",
+        "Pandora",
+        "Prometheus",
+        "Epimetheus",
+        "Janus",
+        "Atlas",
+        "Pan",
+        "Pandora",
+        "Titan", 
+        "Aegaeon",
+        "Ellen",
+        "S/2007 S 2",
+        "S/2007 S 3",
+        "S/2007 S 4",
+        "S/2007 S 5",
+        "S/2007 S 6",
+        "S/2004 S 6",
+        "S/2003 S 2",
+        "S/2000 S 3",
+        "S/2000 S 5",
+        "S/2001 S 6"
+      ]
+    },
+    {
+      "name": "Uranus",
+      "moons": [
+        "Titania",
+        "Oberon",
+        "Umbriel",
+        "Ariel",
+        "Miranda",
+        "Puck",
+        "Belinda",
+        "Francisco",
+        "Margaret",
+        "Caliban",
+        "Sycorax",
+        "Stephano",
+        "Trinculo",
+        "Francisco",
+        "Mab",
+        "Cupid",
+        "Portia",
+        "Rosalind",
+        "Belinda",
+        "Bianca",
+        "Cordelia",
+        "Desdemona"
+      ]
+    },
+    {
+      "name": "Neptune",
+      "moons": [
+        "Triton",
+        "Nereid",
+        "Proteus",
+        "Larissa",
+        "Galatea",
+        "Despina",
+        "Thalassa",
+        "Naiad",
+        "Hippocamp",
+        "S/2004 N 1",
+        "S/2002 N 1",
+        "S/2002 N 2",
+        "S/2002 N 3"
+      ]
+    },
+    {
+      "name": "Pluto",
+      "moons": [
+        "Charon",
+        "Styx",
+        "Nix",
+        "Kerberos",
+        "Hydra"
+      ]
+    }
+  ]
+}
